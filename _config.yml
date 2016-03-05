@@ -11,11 +11,12 @@ email: Dmitry.Andreev@microsoft.com
 description: > # this means to ignore newlines until "baseurl:"
  Блог Дмитрия Андреева
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://microsoft.com" # the base hostname & protocol for your site
+url: "http://dmandreev.github.io" # the base hostname & protocol for your site
 twitter_username: dmandreev
 github_username:  dmandreev
 
 # Build settings
 markdown: kramdown
 encoding: utf-8
+permalink: pretty
 
