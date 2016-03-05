@@ -7,7 +7,7 @@
 
 # Site settings
 title: Дмитрий Андреев
-email: Dmitry.Andreev@microsoft.com
+#email: Dmitry.Andreev@microsoft.com
 description: > # this means to ignore newlines until "baseurl:"
  Блог Дмитрия Андреева
 baseurl: "" # the subpath of your site, e.g. /blog
